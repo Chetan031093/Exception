@@ -2,7 +2,7 @@ import java.io.File;
 import java.io.FileNotFoundException;
 
 /*
- * java programme to handle the Exception Event where multiple Exception class is present.((Compile time Exception)
+ * java programme to handle the Exception Event where multiple Exception class is present.(Compile time Exception)
  */
 class Exx6
 {
