@@ -7,9 +7,9 @@ class Exx5
 	String a = "Infinity"; 
 	void test()
 	{
+		System.out.println("normally answer is : " +a);
 		try
 		{
-			System.out.println("normally answer is : " +a);
 			System.out.println(10/0);
 		}
 		catch(ArithmeticException e)
@@ -19,9 +19,9 @@ class Exx5
 	}
 		void test1()
 		{
+			System.out.println("normally answer is : " +a);
 			try
 			{
-				System.out.println("normally answer is : " +a);
 				System.out.println(10/0);
 			}
 			catch(ArithmeticException e)
